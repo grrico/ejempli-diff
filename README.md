@@ -11,3 +11,8 @@ git push -u origin main
 git remote add origin https://github.com/grrico/ejemplo-diff.git
 git branch -M main
 git push -u origin main
+
+*** prueba de negritas en git hub ***
+#h1#
+##h2##
+###h3###
